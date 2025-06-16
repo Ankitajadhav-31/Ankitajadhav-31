@@ -4,7 +4,7 @@
 
 
 
-## A passionate developer from India 
+## An aspiring Software Engineer exploring the world of tech 
 
 <!--
 **Ankitajadhav-31/Ankitajadhav-31** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
